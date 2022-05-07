@@ -1,0 +1,23 @@
+/*** https://www.materialui.co/flatuicolors ***/
+/*** https://www.materialui.co/socialcolors ***/
+/*** https://www.materialui.co/metrocolors ***/
+:root {
+  --font-size: 16px;
+  --padding: 1rem;
+  --margin: 0;
+  --color-black: $black;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #212b34;
+  color: #eaeaea !important;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+/*# sourceMappingURL=global.css.map */

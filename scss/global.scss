@@ -1,0 +1,22 @@
+@import './colors';
+
+:root {
+  --font-size: 16px;
+  --padding: 1rem;
+  --margin: 0;
+  --color-black: $black;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: $onyx;
+  color: $silk !important;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
